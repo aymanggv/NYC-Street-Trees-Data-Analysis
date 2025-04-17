@@ -52,3 +52,12 @@ We explore the relationship between tree health, stewardship, location, and more
 - Species distribution is skewed toward a few common species.
 - Health data is missing more often in trees that are stumps or dead.
 - Active stewardship might positively influence tree health.
+
+---
+
+## 🚧 Future Improvements
+
+- Add borough-level analysis
+- Correlate tree health with species and location
+- Map visualization using folium or geopandas
+- Predictive modeling for tree health or maintenance needs
